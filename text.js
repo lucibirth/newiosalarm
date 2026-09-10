@@ -5,7 +5,7 @@ window.text = {
     'perfectgirls.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
     'gotporn.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
     'anysex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
-    'sex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    unlock it !',
+    'sex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
     'bravotube.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
     'mylust.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
     'manporn.xxx': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (844) 959-1254    to unlock it !',
